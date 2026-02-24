@@ -52,7 +52,7 @@ The system evaluates multiple pre-trained CNN models (VGG-19, Densenet121, and R
 ![Segmented Image 1](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Segmented%20Image.jpg)  
 
 - **Snapshot of  Tumor Detection:**  
-![Segmented Image 2](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Segmented%20Image.jpg)  
+![Segmented Image 2](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/cb3a0df4ece220c65baa13867770491991b8bc9b/Images/system/Snapshot%20of%20Detecting%20Tumor.jpg)  
 
 🛠️ **Tech Stack**
 
