@@ -26,11 +26,33 @@ The system evaluates multiple pre-trained CNN models (VGG-19, Densenet121, and R
 
 🖼️ **Outputs**
 
-- Fused MRI & CT images for analysis
-- 
-- Tumor classification: Yes / No  
-- Segmentation masks highlighting tumor regions  
-- Performance plots (accuracy/loss curves)  
+📊 **Plots**
+
+- **Snapshot of Accuracy plot showing model performance over epochs:**  
+![Accuracy over epochs](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/plots/Plot_accuracy_over_epochs.jpg)  
+
+- **Snapshot of Loss plot showing how loss decreases over epochs:**  
+![Loss over epochs](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/plots/Plot_Loss_over_epochs.jpg)  
+
+💻 **System Snapshots**
+
+- **Snapshot of Image Upload interface:**  
+![Image Upload](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshots%20of%20Image%20upload.jpg)  
+
+- **Snapshot of Image Registration interface:**  
+![Image Registration](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Image%20Registeration.jpg)  
+
+- **Snapshot of Registered Image:**  
+![Registered Image](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Registered%20Image.jpg)  
+
+- **Snapshot of Fused Image combining MRI and CT scans:**  
+![Fused Image](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Fused%20Image.jpg)  
+
+- **Snapshot of Segmented Image:**  
+![Segmented Image 1](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Segmented%20Image.jpg)  
+
+- **Snapshot of  Tumor Detection:**  
+![Segmented Image 2](https://github.com/AtharvaDaga/Brain-Tumor-Detection/blob/238bb09a8affcbed83532e6d023bbf05736087ea/Images/system/Snapshot%20of%20Segmented%20Image.jpg)  
 
 🛠️ **Tech Stack**
 
